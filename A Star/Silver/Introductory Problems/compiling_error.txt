@@ -1,0 +1,22 @@
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp: In function 'int main()':
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp:9:3: error: expected initializer before 'for'
+   for (int i = 0; i < n; i++){
+   ^~~
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp:9:19: error: 'i' was not declared in this scope
+   for (int i = 0; i < n; i++){
+                   ^
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp:17:34: error: 'cows' was not declared in this scope
+         long long distance = pow(cows[i][0]-cows[j][0]) + pow(cows[i][1]-pow(cows[j][1]));
+                                  ^~~~
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp:17:55: error: 'pow' was not declared in this scope
+         long long distance = pow(cows[i][0]-cows[j][0]) + pow(cows[i][1]-pow(cows[j][1]));
+                                                       ^
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp:24:5: error: 'cows' was not declared in this scope
+     cows[j][0] = -1;
+     ^~~~
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp:24:10: error: 'j' was not declared in this scope
+     cows[j][0] = -1;
+          ^
+C:\Users\alany\Documents\Code\C++\A-Star Camp\Introductory Problems\cowtag.cpp:36:9: error: 'cows' was not declared in this scope
+     if (cows[i][0] != -1){
+         ^~~~
