@@ -1,0 +1,5 @@
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/cmake-build-debug/CMakeFiles/Problem_Solving.dir
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/cmake-build-debug/CMakeFiles/fpot.dir
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/cmake-build-debug/CMakeFiles/photo.dir
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/cmake-build-debug/CMakeFiles/rebuild_cache.dir

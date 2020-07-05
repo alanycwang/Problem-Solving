@@ -1,8 +1,16 @@
 #include <iostream>
+#include <set>
 
 using namespace std;
 
 int main(){
-  int a = 6;
-  cout << 1-!(5%2);
+  multiset<int> ms;
+  ms.insert(1);
+  ms.insert(1);
+  ms.erase(ms.find(1));
+  for (auto i : ms) {
+    cout << i << endl;
+  }
+
+  cout << *ms.end();
 }

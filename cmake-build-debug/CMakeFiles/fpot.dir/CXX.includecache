@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/A Star/Gold Advanced/Summer Online/Data Structures/fpot.cpp
+iostream
+-
+algorithm
+-
+set
+-
+
