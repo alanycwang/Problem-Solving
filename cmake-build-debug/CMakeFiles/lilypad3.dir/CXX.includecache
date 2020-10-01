@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/USACO Practice/Gold 3/chocmilk.cpp
+iostream
+-
+set
+-
+
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/USACO Practice/Gold 3/cruise.cpp
+iostream
+-
+cstring
+-
+vector
+-
+
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/USACO Practice/Gold 3/frameup.cpp
+iostream
+-
+set
+-
+cstring
+-
+
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/USACO Practice/Gold 3/lilypad3.cpp
+iostream
+-
+set
+-
+queue
+-
+cstring
+-
+

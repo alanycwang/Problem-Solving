@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/USACO Practice/Gold 3/frameup.cpp
+iostream
+-
+set
+-
+cstring
+-
+vector
+-
+algorithm
+-
+

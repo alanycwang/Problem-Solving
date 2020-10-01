@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alany/Dropbox/Projects/Code/Problem-Solving/LIT/knapsack.cpp
+vector
+-
+set
+-
+iostream
+-
+map
+-
+

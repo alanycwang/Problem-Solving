@@ -52,12 +52,12 @@ bool inside(long long cow, long long polygon) {
   //cout << polygons[polygon].size() << endl;
   //cout << polygon << endl;
   //cout << *polygons[polygon].begin() << endl;
-  for (set<long long>::iterator i = polygons[polygon].begin(); i != polygons[polygon].end(); i++) {
+  for (long long i : polygons) {
     //cout << *i << endl;
     //cout << "working" << endl;
     long long temp[2] = {cows[cow][0] + 1, LLONG_MAX};
     //cout << "working" << endl;
-    if (intersection(fences[*i][0], fences[*i][1], cows[cow], temp)) cnt++;
+    if (intersection(fences[i][0], fences[i][1], cows[cow], temp)) cnt++;
     //cout << "working" << endl;
   }
   //cout << "not working" << endl;

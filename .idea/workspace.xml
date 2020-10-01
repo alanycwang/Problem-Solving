@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Problem_Solving" targetName="fpot" />
-      <config projectName="Problem_Solving" targetName="photo" />
-      <config projectName="Problem_Solving" targetName="Problem_Solving" />
+      <config projectName="Problem_Solving" targetName="lilypad3" />
+      <config projectName="Problem_Solving" targetName="permutations" />
+      <config projectName="Problem_Solving" targetName="chocmilk" />
+      <config projectName="Problem_Solving" targetName="cruise" />
+      <config projectName="Problem_Solving" targetName="frameup" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -13,7 +33,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6df1cb4a-cbab-4e86-a073-82503e088c60" name="Default Changelist" comment="" />
+    <list default="true" id="e0e63e2b-7137-43c2-9b30-2cff55394ef4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,83 +46,176 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1e0yZ6Wia6N1SiUWBTM3ejpOU9N" />
+  <component name="ProjectId" id="1gFIvzeTAPmtwI4Yc40tLMVnoVe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="CMake Application.fpot">
-    <configuration name="Problem_Solving" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="Problem_Solving" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="Problem_Solving">
+  <component name="RunManager" selected="CMake Application.permutations">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fpot" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="fpot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="fpot">
+    <configuration name="chocmilk" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="chocmilk" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="chocmilk">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="photo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="photo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="photo">
+    <configuration name="cruise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="cruise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="cruise">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frameup" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="frameup" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="frameup">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lilypad3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="lilypad3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="lilypad3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="permutations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="permutations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Problem_Solving" RUN_TARGET_NAME="permutations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.fpot" />
-      <item itemvalue="CMake Application.photo" />
-      <item itemvalue="CMake Application.Problem_Solving" />
+      <item itemvalue="CMake Application.chocmilk" />
+      <item itemvalue="CMake Application.cruise" />
+      <item itemvalue="CMake Application.frameup" />
+      <item itemvalue="CMake Application.lilypad3" />
+      <item itemvalue="CMake Application.permutations" />
     </list>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6df1cb4a-cbab-4e86-a073-82503e088c60" name="Default Changelist" comment="" />
-      <created>1593472857545</created>
+      <changelist id="e0e63e2b-7137-43c2-9b30-2cff55394ef4" name="Default Changelist" comment="" />
+      <created>1597704149686</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593472857545</updated>
-      <workItem from="1593472858717" duration="418000" />
+      <updated>1597704149686</updated>
+      <workItem from="1597704151435" duration="26000" />
+      <workItem from="1597704179919" duration="5283000" />
+      <workItem from="1597723901862" duration="1066000" />
+      <workItem from="1598050655022" duration="13207000" />
+      <workItem from="1598141325712" duration="2329000" />
+      <workItem from="1598144227628" duration="226000" />
+      <workItem from="1598144474986" duration="669000" />
+      <workItem from="1598313309048" duration="4898000" />
+      <workItem from="1598725517384" duration="2596000" />
+      <workItem from="1598914510617" duration="4744000" />
+      <workItem from="1600212644583" duration="4366000" />
+      <workItem from="1600217051401" duration="650000" />
+      <workItem from="1600393471660" duration="300000" />
+      <workItem from="1601336310503" duration="4334000" />
+      <workItem from="1601515285935" duration="12067000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1481" height="210" key="GridCell.Tab.0.bottom" timestamp="1593473265901">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="906" y="398" key="#Inspections" timestamp="1598313716286">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593473265901" />
-    <state width="1481" height="210" key="GridCell.Tab.0.center" timestamp="1593473265901">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="906" y="398" key="#Inspections/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1598313716286" />
+    <state x="1010" y="466" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601336625269">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1593473265901" />
-    <state width="1481" height="210" key="GridCell.Tab.0.left" timestamp="1593473265900">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="1010" y="466" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1601336625269" />
+    <state x="1060" y="474" key="FileChooserDialogImpl" timestamp="1597704171923">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1593473265900" />
-    <state width="1481" height="210" key="GridCell.Tab.0.right" timestamp="1593473265901">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="1060" y="474" key="FileChooserDialogImpl/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1597704171923" />
+    <state width="2516" height="390" key="GridCell.Tab.0.bottom" timestamp="1601532616020">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1481" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1593473265901" />
+    <state width="2516" height="390" key="GridCell.Tab.0.bottom/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1601532616020" />
+    <state width="2516" height="390" key="GridCell.Tab.0.center" timestamp="1601532616020">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="390" key="GridCell.Tab.0.center/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1601532616020" />
+    <state width="2516" height="390" key="GridCell.Tab.0.left" timestamp="1601532616020">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="390" key="GridCell.Tab.0.left/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1601532616020" />
+    <state width="2516" height="390" key="GridCell.Tab.0.right" timestamp="1601532616020">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="390" key="GridCell.Tab.0.right/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1601532616020" />
+    <state width="2516" height="508" key="GridCell.Tab.1.bottom" timestamp="1598318212059">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="508" key="GridCell.Tab.1.bottom/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1598318212059" />
+    <state width="2516" height="508" key="GridCell.Tab.1.center" timestamp="1598318212059">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="508" key="GridCell.Tab.1.center/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1598318212059" />
+    <state width="2516" height="508" key="GridCell.Tab.1.left" timestamp="1598318212059">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="508" key="GridCell.Tab.1.left/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1598318212059" />
+    <state width="2516" height="508" key="GridCell.Tab.1.right" timestamp="1598318212059">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="508" key="GridCell.Tab.1.right/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1598318212059" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1597704175299">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1597704175299" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1597704175298">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1597704175298" />
+    <state x="1097" y="633" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601532261299">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1097" y="633" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1601532261299" />
+    <state x="986" y="319" width="587" height="801" key="find.popup" timestamp="1600214949995">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="986" y="319" width="587" height="801" key="find.popup/0.0.2560.1440/340.1440.1536.864@0.0.2560.1440" timestamp="1600214949995" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="connected" language="ObjectiveC" />
+        <watch expression="dq" language="ASM" />
+        <watch expression="dq[0].second" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
